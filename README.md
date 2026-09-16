@@ -121,6 +121,8 @@ ros2 run turtlebot3_teleop teleop_keyboard
 
 **Observation:** As the robot moves, the particle cloud converges further, narrowing around the estimated pose — confirming AMCL is successfully tracking the robot's position.
 
+**Demo video:** https://drive.google.com/file/d/1XNcclC0V2hdfp4Skyw4Xwdk6K_jgHf34/view?usp=sharing
+
 ## TF Tree
 
 ```bash
